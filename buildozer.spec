@@ -1,7 +1,7 @@
 [app]
 title = Sea Pig Clicker
 icon.filename = %(source.dir)s/assets/images/icon.png
-package.name = ratclicker
+package.name = seapigclicker
 package.domain = org.pythonexpert
 source.dir = .
 source.include_exts = py,kv,png,jpg,jpeg,ogg,mp3,ttf,woff,txt
